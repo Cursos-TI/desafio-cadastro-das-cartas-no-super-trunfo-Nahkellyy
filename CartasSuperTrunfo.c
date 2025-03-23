@@ -54,7 +54,7 @@ int main() {
     printf("Digite a população da segunda carta: \n");
     scanf("%lu", &populacao2);
 
-    printf("Digite o número de pontos turisticos da sugunda carta: \n");
+    printf("Digite o número de pontos turisticos da segunda carta: \n");
     scanf("%d", &pontosTuristicos2);
 
     printf("Digite a área segunda carta: \n");
@@ -95,7 +95,7 @@ int main() {
      {
          printf("Área: Carta 1 venceu! (1)\n");
      }else{
-         printf("Área: Carta 2 venceu! (0)/n");
+         printf("Área: Carta 2 venceu! (0)\n");
      }    
      if(pib1 > pib2)
      {
@@ -123,17 +123,6 @@ int main() {
      }
     
    
-
-   
-    
-     
-    
-    
-
-
-    
-  
-
 
 
     return 0;
